@@ -1,0 +1,9 @@
+venv/
+.venv/
+.env
+db/*
+!db/.gitkeep
+__pycache__/
+*.pyc
+.DS_Store
+.streamlit/secrets.toml
